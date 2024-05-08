@@ -1,0 +1,12 @@
+Instructions for Project setup:
+
+1.) Unzip the folder and then move to the project by cd -ProjectName- in terminal and run 
+              npm install
+this will download node modules
+2. For json - server , install by running command
+      npm i json server
+by using another terminal in the same directory and run server by using command
+   npm run server
+
+4) Run the project by using command
+   npm run dev
